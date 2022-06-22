@@ -15,6 +15,7 @@ I have been learning to code for 1 year now. I started with a language that can 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
+<a href="https://www.skunity.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/StarZebra/Sessions/main/sd.png?token=GHSAT0AAAAAABTH73J6JY2EJKCQHNXR3F7MYVTHPNQ" width="36" height="36" alt="Skript" /></a> 
 </p>
 
 
