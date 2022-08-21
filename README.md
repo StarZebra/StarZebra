@@ -8,7 +8,7 @@ I have been learning to code for 1 year now. I started with a language that can 
 
 * 🌍  I'm based in Sweden
 * 🚀  I'm currently working on JerrysMod
-* 🧠  I'm learning Kotlin and Java daily
+* 🧠  I'm learning Kotlin, Java and dabling in cryptography.
 
 ### Skills
 
