@@ -7,8 +7,8 @@ Minecraft Developer
 I have been learning to code for 1 year now. I started with a language that can only be used inside a game, this game is Minecraft, and the language is called [Skript.](https://github.com/SkriptLang/Skript). I recently switched to Java a few months ago and have been using it ever since.
 
 * 🌍  I'm based in Sweden
-* 🚀  I'm currently working on JerrysMod
-* 🧠  I'm learning Kotlin, Java and dabling in cryptography.
+* 🚀  I'm currently working on Insanity
+* 🧠  I'm learning Kotlin and Java.
 
 ### Skills
 
