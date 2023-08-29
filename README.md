@@ -5,20 +5,14 @@ Minecraft Developer
 I have been learning to code for 1 year now. I started with a language that can only be used inside a game, this game is Minecraft, and the language is called [Skript.](https://github.com/SkriptLang/Skript). I recently switched to Java a few months ago and have been using it ever since.
 
 * 🌍  I'm based in Sweden
-* 🚀  I'm currently working on Insanity
-* 🧠  I'm learning Kotlin and Java.
+* 🚀  I'm currently inactive on github.
+* 🧠  I'm always learning new and interesting ways around coding.
 
 ### Skills
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
 </p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/StarZebra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
