@@ -2,7 +2,7 @@
 Minecraft Developer
 -------------------
 
-I have been coding for close to 5 years now. I started with a language that can only be used inside a game, this game is Minecraft, and the language is called [Skript.](https://github.com/SkriptLang/Skript). I recently switched to Java and have been using it ever since.
+I have been interested in coding since around 2019 when I started with a language that can only be used inside of a game, that game being Minecraft, and the language is called [Skript.](https://github.com/SkriptLang/Skript). I recently switched to Java and have been using it ever since.
 
 * 🌍  I'm based in Sweden
 * 🚀  I'm currently inactive on github.
